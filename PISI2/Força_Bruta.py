@@ -92,7 +92,9 @@ if "R" in menor_rota_visual:
     menor_rota_visual.remove("R")
 
 # Printar na Tela a menor rota
-print(" ".join(menor_rota_visual))
+print('=== FlyFood ===')
+print('A menor rota é:')
+print(" -> ".join(menor_rota_visual))
 # Verificar o tempo de Execução do Algoritmo
 final = time.time()
 print("Tempo de execução: ", final - inicial)
