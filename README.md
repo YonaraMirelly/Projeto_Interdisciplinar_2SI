@@ -1,2 +1,2 @@
 # Projeto_Interdisciplinar_2SI
-  Este projeto visa a comparação de dois algoritmos a fim de observar suas variações e nuancias para encontrar a melhor opção de implementação.
+  O objetivo geral deste projeto é desenvolver um algoritmo de roteamento para drones de entrega que minimize a distância total percorrida ao realizar entregas de múltiplos pedidos, retornando ao ponto de origem. Esse algoritmo visa otimizar a eficiência das entregas, economizando tempo e energia, crucial para a viabilidade operacional de uma empresa de entregas por drones: FlyFood.
