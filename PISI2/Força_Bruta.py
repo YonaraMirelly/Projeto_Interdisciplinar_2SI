@@ -18,7 +18,7 @@ inicial = time.time()
 pontos = {}
 
 # Abrir o arquivo .txt
-with open("PISI2/rota.txt", "r") as entrada:
+with open("PISI2/rota5.txt", "r") as entrada:
     matriz = []
     # Para cada linha no arquivo
     for i in entrada:
